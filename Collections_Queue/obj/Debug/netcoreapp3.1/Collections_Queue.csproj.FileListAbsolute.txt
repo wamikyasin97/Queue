@@ -1,0 +1,13 @@
+C:\Users\techverx\source\repos\Collections_Queue\Collections_Queue\bin\Debug\netcoreapp3.1\Collections_Queue.exe
+C:\Users\techverx\source\repos\Collections_Queue\Collections_Queue\bin\Debug\netcoreapp3.1\Collections_Queue.deps.json
+C:\Users\techverx\source\repos\Collections_Queue\Collections_Queue\bin\Debug\netcoreapp3.1\Collections_Queue.runtimeconfig.json
+C:\Users\techverx\source\repos\Collections_Queue\Collections_Queue\bin\Debug\netcoreapp3.1\Collections_Queue.runtimeconfig.dev.json
+C:\Users\techverx\source\repos\Collections_Queue\Collections_Queue\bin\Debug\netcoreapp3.1\Collections_Queue.dll
+C:\Users\techverx\source\repos\Collections_Queue\Collections_Queue\bin\Debug\netcoreapp3.1\Collections_Queue.pdb
+C:\Users\techverx\source\repos\Collections_Queue\Collections_Queue\obj\Debug\netcoreapp3.1\Collections_Queue.csprojAssemblyReference.cache
+C:\Users\techverx\source\repos\Collections_Queue\Collections_Queue\obj\Debug\netcoreapp3.1\Collections_Queue.AssemblyInfoInputs.cache
+C:\Users\techverx\source\repos\Collections_Queue\Collections_Queue\obj\Debug\netcoreapp3.1\Collections_Queue.AssemblyInfo.cs
+C:\Users\techverx\source\repos\Collections_Queue\Collections_Queue\obj\Debug\netcoreapp3.1\Collections_Queue.csproj.CoreCompileInputs.cache
+C:\Users\techverx\source\repos\Collections_Queue\Collections_Queue\obj\Debug\netcoreapp3.1\Collections_Queue.dll
+C:\Users\techverx\source\repos\Collections_Queue\Collections_Queue\obj\Debug\netcoreapp3.1\Collections_Queue.pdb
+C:\Users\techverx\source\repos\Collections_Queue\Collections_Queue\obj\Debug\netcoreapp3.1\Collections_Queue.genruntimeconfig.cache
